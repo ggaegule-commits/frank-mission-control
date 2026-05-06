@@ -30,7 +30,7 @@
         }
       ],
       "priority": "high",
-      "executionCount": 0,
+      "executionCount": 1,
       "createdAt": "2026-01-15T09:00:00Z"
     },
     {
@@ -455,6 +455,38 @@
       "priority": "medium",
       "createdAt": "2026-05-05T00:15:07.953Z",
       "createdFromTemplate": "task_p02"
+    },
+    {
+      "id": "task_1778078091343",
+      "title": "Weekly backup check",
+      "description": "Verify all automated backups completed successfully",
+      "status": "backlog",
+      "isTemplate": false,
+      "project": "devops",
+      "tags": [
+        "devops",
+        "maintenance"
+      ],
+      "subtasks": [
+        {
+          "id": "sub_1778078091343_m402gol40",
+          "title": "Check database backups",
+          "done": false
+        },
+        {
+          "id": "sub_1778078091343_y2ve8715l",
+          "title": "Verify file storage sync",
+          "done": false
+        },
+        {
+          "id": "sub_1778078091343_onggwkmyt",
+          "title": "Test restore procedure",
+          "done": false
+        }
+      ],
+      "priority": "high",
+      "createdAt": "2026-05-06T14:34:51.343Z",
+      "createdFromTemplate": "task_p01"
     }
   ],
   "projects": [
