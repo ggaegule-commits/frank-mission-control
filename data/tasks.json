@@ -500,6 +500,21 @@
       ],
       "subtasks": [],
       "createdAt": "2026-05-09T00:40:37.572Z"
+    },
+    {
+      "id": "template_1778306961353",
+      "title": "내 주변 날씨",
+      "description": "평택시, 성남시 날씨와 미세먼지에 대해 알려줘",
+      "project": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-05-09T06:09:21.353Z",
+      "isTemplate": true,
+      "baseStatus": "scheduled",
+      "executionCount": 0
     }
   ],
   "projects": [
@@ -570,5 +585,5 @@
       "time": "3 days ago"
     }
   ],
-  "lastUpdated": "2026-05-05T00:15:05.729Z"
+  "lastUpdated": "2026-05-09T06:09:21.353Z"
 }
