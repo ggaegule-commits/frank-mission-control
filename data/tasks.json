@@ -492,8 +492,7 @@
       "id": "task_1778287237572",
       "title": "날씨 알림",
       "description": "매일 오전5시반 이랑 오후 12시에 평택시, 성남시 날씨를 연결되어 있는 텔레그램으로 알려줘",
-      "status": "scheduled",
-      "scheduledAt": "2026-05-09T01:00:00.000Z",
+      "status": "in_progress",
       "priority": "medium",
       "project": "system",
       "tags": [
