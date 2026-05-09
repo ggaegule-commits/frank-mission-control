@@ -489,19 +489,6 @@
       "createdFromTemplate": "task_p01"
     },
     {
-      "id": "task_1778287237572",
-      "title": "날씨 알림",
-      "description": "매일 오전5시반 이랑 오후 12시에 평택시, 성남시 날씨를 연결되어 있는 텔레그램으로 알려줘",
-      "status": "in_progress",
-      "priority": "medium",
-      "project": "system",
-      "tags": [
-        "scheduled"
-      ],
-      "subtasks": [],
-      "createdAt": "2026-05-09T00:40:37.572Z"
-    },
-    {
       "id": "template_1778306961353",
       "title": "내 주변 날씨",
       "description": "평택시, 성남시 날씨와 미세먼지에 대해 알려줘.\n시간은 오전 5시30분과 오후 12시에 알려줘.\n알림은 frank82bot에게 알려줘.",
@@ -585,5 +572,5 @@
       "time": "3 days ago"
     }
   ],
-  "lastUpdated": "2026-05-09T06:10:37.542Z"
+  "lastUpdated": "2026-05-09T06:10:51.746Z"
 }
