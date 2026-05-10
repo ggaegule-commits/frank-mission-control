@@ -547,6 +547,19 @@
       "archivedReason": "Converted to cron: fd435a15-df3c-4501-a133-b56adfcf2b81",
       "status": "scheduled",
       "createdFromTemplate": "template_1778393699209"
+    },
+    {
+      "id": "task_1778413829163",
+      "title": "구글 이메일 전송해줘",
+      "description": "이메일내용 : 5월10일 오전/오후 평택시, 성남시의 날씨를 오전 오후 조회해서 구글 이메일로 전송해줘\n이메일 : ggaegule@gmail.com",
+      "project": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-05-10T11:50:29.163Z",
+      "status": "in_progress"
     }
   ],
   "projects": [
@@ -617,5 +630,5 @@
       "time": "3 days ago"
     }
   ],
-  "lastUpdated": "2026-05-10T06:25:13.318Z"
+  "lastUpdated": "2026-05-10T11:50:29.163Z"
 }
