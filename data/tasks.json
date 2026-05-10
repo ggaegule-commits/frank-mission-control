@@ -501,7 +501,10 @@
       "createdAt": "2026-05-09T06:09:21.353Z",
       "isTemplate": true,
       "baseStatus": "scheduled",
-      "executionCount": 1
+      "executionCount": 1,
+      "archived": true,
+      "archivedAt": "2026-05-10T06:13:51.953Z",
+      "archivedReason": "Converted to cron: fd435a15-df3c-4501-a133-b56adfcf2b81"
     },
     {
       "id": "task_1778307063675",
