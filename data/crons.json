@@ -10,6 +10,17 @@
       "enabled": true,
       "pending": true,
       "createdAt": "2026-05-10T06:13:51.953Z"
+    },
+    {
+      "id": "8e42c610-52e6-40f4-9e83-62faa9cd1837",
+      "name": "내 주변 날씨",
+      "prompt": "평택시 날씨와 미세먼지에 대해 알려줘.\n시간은 오전 5시30분과 오후 12시에 알려줘.\n알림은 frank82bot에게 알려줘.",
+      "schedule": "30 05 * * *",
+      "scheduleHuman": "Daily at 05:30",
+      "timezone": "Europe/Berlin",
+      "enabled": true,
+      "pending": true,
+      "createdAt": "2026-05-10T06:19:45.903Z"
     }
   ]
 }
