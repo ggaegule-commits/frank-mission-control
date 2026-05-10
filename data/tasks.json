@@ -31,7 +31,8 @@
       ],
       "priority": "high",
       "executionCount": 1,
-      "createdAt": "2026-01-15T09:00:00Z"
+      "createdAt": "2026-01-15T09:00:00Z",
+      "sortOrder": 0
     },
     {
       "id": "task_p02",
@@ -48,7 +49,8 @@
       "subtasks": [],
       "priority": "medium",
       "executionCount": 2,
-      "createdAt": "2026-01-15T09:00:00Z"
+      "createdAt": "2026-01-15T09:00:00Z",
+      "sortOrder": 0
     },
     {
       "id": "task_001",
@@ -83,7 +85,8 @@
         }
       ],
       "priority": "high",
-      "createdAt": "2026-01-20T10:00:00Z"
+      "createdAt": "2026-01-20T10:00:00Z",
+      "sortOrder": 1
     },
     {
       "id": "task_002",
@@ -113,7 +116,8 @@
         }
       ],
       "priority": "low",
-      "createdAt": "2026-01-25T18:00:00Z"
+      "createdAt": "2026-01-25T18:00:00Z",
+      "sortOrder": 0
     },
     {
       "id": "task_003",
@@ -148,7 +152,8 @@
         }
       ],
       "priority": "high",
-      "createdAt": "2026-01-22T14:00:00Z"
+      "createdAt": "2026-01-22T14:00:00Z",
+      "sortOrder": 2
     },
     {
       "id": "task_004",
@@ -162,7 +167,8 @@
       ],
       "subtasks": [],
       "priority": "medium",
-      "createdAt": "2026-01-24T11:00:00Z"
+      "createdAt": "2026-01-24T11:00:00Z",
+      "sortOrder": 2
     },
     {
       "id": "task_005",
@@ -438,7 +444,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-05-04T23:41:31.349Z",
-      "createdFromTemplate": "task_p02"
+      "createdFromTemplate": "task_p02",
+      "sortOrder": 1
     },
     {
       "id": "task_1777940107953",
@@ -454,7 +461,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-05-05T00:15:07.953Z",
-      "createdFromTemplate": "task_p02"
+      "createdFromTemplate": "task_p02",
+      "sortOrder": 3
     },
     {
       "id": "task_1778078091343",
@@ -486,7 +494,8 @@
       ],
       "priority": "high",
       "createdAt": "2026-05-06T14:34:51.343Z",
-      "createdFromTemplate": "task_p01"
+      "createdFromTemplate": "task_p01",
+      "sortOrder": 3
     },
     {
       "id": "template_1778306961353",
@@ -608,5 +617,5 @@
       "time": "3 days ago"
     }
   ],
-  "lastUpdated": "2026-05-10T06:21:07.288Z"
+  "lastUpdated": "2026-05-10T06:25:13.318Z"
 }
