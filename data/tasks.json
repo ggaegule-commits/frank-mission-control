@@ -48,7 +48,7 @@
       ],
       "subtasks": [],
       "priority": "medium",
-      "executionCount": 2,
+      "executionCount": 3,
       "createdAt": "2026-01-15T09:00:00Z",
       "sortOrder": 0
     },
@@ -593,6 +593,23 @@
       "createdAt": "2026-05-18T13:44:28.891Z",
       "sortOrder": 0,
       "createdFromTemplate": "task_p01"
+    },
+    {
+      "id": "task_1779111881835",
+      "title": "Review analytics dashboard",
+      "description": "Check KPIs and identify trends or anomalies",
+      "status": "backlog",
+      "isTemplate": false,
+      "project": "growth",
+      "tags": [
+        "growth",
+        "analytics"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-05-18T13:44:41.835Z",
+      "sortOrder": 0,
+      "createdFromTemplate": "task_p02"
     }
   ],
   "projects": [
