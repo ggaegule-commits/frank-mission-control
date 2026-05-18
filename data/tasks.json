@@ -560,6 +560,21 @@
       "priority": "medium",
       "createdAt": "2026-05-10T11:50:29.163Z",
       "status": "in_progress"
+    },
+    {
+      "id": "template_1779111329348",
+      "title": "111",
+      "description": "222",
+      "project": "",
+      "tags": [
+        ""
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-05-18T13:35:29.348Z",
+      "isTemplate": true,
+      "baseStatus": "backlog",
+      "executionCount": 0
     }
   ],
   "projects": [
@@ -630,5 +645,5 @@
       "time": "3 days ago"
     }
   ],
-  "lastUpdated": "2026-05-10T11:50:29.163Z"
+  "lastUpdated": "2026-05-18T13:35:29.348Z"
 }
