@@ -274,7 +274,7 @@
       "id": "task_008",
       "title": "API documentation update",
       "description": "Complete overhaul of REST API docs with examples and error codes",
-      "status": "review",
+      "status": "done",
       "project": "devops",
       "tags": [
         "devops",
@@ -303,13 +303,14 @@
         }
       ],
       "priority": "high",
-      "createdAt": "2026-01-18T09:00:00Z"
+      "createdAt": "2026-01-18T09:00:00Z",
+      "completedAt": "2026-05-21T15:13:07.557Z"
     },
     {
       "id": "task_009",
       "title": "New logo concepts",
       "description": "Three variations for brand refresh, awaiting team vote",
-      "status": "review",
+      "status": "done",
       "project": "design",
       "tags": [
         "design",
@@ -333,7 +334,8 @@
         }
       ],
       "priority": "medium",
-      "createdAt": "2026-01-19T11:00:00Z"
+      "createdAt": "2026-01-19T11:00:00Z",
+      "completedAt": "2026-05-21T15:13:09.849Z"
     },
     {
       "id": "task_010",
@@ -728,5 +730,5 @@
       "time": "3 days ago"
     }
   ],
-  "lastUpdated": "2026-05-21T15:00:43.333Z"
+  "lastUpdated": "2026-05-21T15:13:09.849Z"
 }
