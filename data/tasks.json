@@ -500,7 +500,7 @@
     {
       "id": "template_1778306961353",
       "title": "내 주변 날씨",
-      "description": "평택시 날씨와 미세먼지에 대해 알려줘.\n알림은 frank82bot에게 알려줘.",
+      "description": "평택시 세벽 5시부터 오후 19시까지 2시간마다의 \n날씨와 미세먼지에 대해 알려줘.\n날씨는 온도,강수, 습도,풍속를 알려줘\n알림은 frank82bot에게 알려줘.",
       "project": "devops",
       "tags": [
         "wellness"
@@ -680,5 +680,5 @@
       "time": "3 days ago"
     }
   ],
-  "lastUpdated": "2026-05-10T11:50:29.163Z"
+  "lastUpdated": "2026-05-21T14:02:56.804Z"
 }
