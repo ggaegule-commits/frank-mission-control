@@ -644,7 +644,10 @@
       "createdAt": "2026-05-21T15:00:43.333Z",
       "isTemplate": true,
       "baseStatus": "in_progress",
-      "executionCount": 1
+      "executionCount": 1,
+      "archived": true,
+      "archivedAt": "2026-05-23T01:17:01.429Z",
+      "archivedReason": "Converted to cron: 0c94fa50-4d42-464f-8592-5e61b21f0d6a"
     },
     {
       "id": "task_1779375668673",
@@ -730,5 +733,5 @@
       "time": "3 days ago"
     }
   ],
-  "lastUpdated": "2026-05-21T15:13:31.904Z"
+  "lastUpdated": "2026-05-23T01:17:04.292Z"
 }
