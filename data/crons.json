@@ -22,16 +22,6 @@
       "pending": true,
       "createdAt": "2026-05-10T06:21:05.366Z"
     },
-    {
-      "id": "0c94fa50-4d42-464f-8592-5e61b21f0d6a",
-      "name": "네이버 실시간 주식 정보",
-      "prompt": "https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258\n사이트 접속해서 실시간속보에 있는 뉴스중에 5번째줄까지 제목이랑 링크정보까지 복사하고 그걸 구글 메일로 보내줘\n아래 처럼 해서 보내줘\n제목 : 2026-05-21 11:00 네이버 뉴스\n내용 : 1. [뉴욕증시]유가·미국채 금리 상승에 일제히 하락 출발\n       2. 빚투가 이렇게 무서워” 하루 천억씩 마진콜…상투잡은 영끌 개미",
-      "schedule": "0 18 10 * * ?",
-      "scheduleHuman": "0 18 10 * * ?",
-      "timezone": "Europe/Berlin",
-      "enabled": true,
-      "pending": true,
-      "createdAt": "2026-05-23T01:17:01.429Z"
-    }
+
   ]
 }
